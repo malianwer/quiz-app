@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "Which of the following platforms can React Native be used to build mobile applications for?",
+        "options": [
+            "iOS",
+            "Android",
+            "Both iOS and Android",
+            "None of the above"
+        ],
+        "answer": "Both iOS and Android"
+    },
+    {
+        "id": "02",
+        "question" : "What is the primary programming language used in React Native development?",
+        "options": [
+            "Java",
+            "Swift",
+            "JavaScript",
+            "Python"
+        ],
+        "answer": "JavaScript"
+    },
+    {
+        "id": "03",
+        "question" : "Which of the following components in React Native is used to handle user input?",
+        "options": [
+            "<TextInput />",
+            "<Text />",
+            "<View />",
+            "<Image />"
+        ],
+        "answer": "<TextInput />"
+    },
+    {
+        "id": "04",
+        "question" : "What is the purpose of the 'react-native-cli' command in React Native development?",
+        "options": [
+            "To create a new React Native project",
+            "To install additional dependencies",
+            "To start the development server",
+            "To run tests"
+        ],
+        "answer": "To create a new React Native project"
+    },
+    {
+        "id": "05",
+        "question" : "Which of the following is NOT a core component provided by React Native?",
+        "options": [
+            "<Text />",
+            "<View />",
+            "<Image />",
+            "<Button />"
+        ],
+        "answer": "<Button />"
+    },
+    {
+        "id": "06",
+        "question" : "What does 'Expo' offer in React Native development?",
+        "options": [
+            "A set of UI components",
+            "A platform for building and publishing React Native apps",
+            "A state management library",
+            "A testing framework"
+        ],
+        "answer": "A platform for building and publishing React Native apps"
+    },
+    {
+        "id": "07",
+        "question" : "What is the purpose of the 'StyleSheet' component in React Native?",
+        "options": [
+            "To define styles for React Native components",
+            "To manage application state",
+            "To handle navigation between screens",
+            "To fetch data from an API"
+        ],
+        "answer": "To define styles for React Native components"
+    },
+    {
+        "id": "08",
+        "question" : "Which of the following is used for navigation in React Native apps?",
+        "options": [
+            "React Router",
+            "React Navigation",
+            "React Native Router",
+            "React Native Navigation"
+        ],
+        "answer": "React Navigation"
+    },
+    {
+        "id": "09",
+        "question" : "What is the purpose of 'AsyncStorage' in React Native?",
+        "options": [
+            "To handle asynchronous operations",
+            "To store data locally on the device",
+            "To manage state in React Native components",
+            "To make API requests"
+        ],
+        "answer": "To store data locally on the device"
+    },
+    {
+        "id": "10",
+        "question" : "What is the recommended way to handle screen navigation in React Native?",
+        "options": [
+            "Using stack-based navigation",
+            "Using switch-based navigation",
+            "Using tab-based navigation",
+            "Using drawer-based navigation"
+        ],
+        "answer": "Using stack-based navigation"
+    }
+]
